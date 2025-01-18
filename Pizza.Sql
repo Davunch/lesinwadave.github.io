@@ -49,7 +49,7 @@ Select *
 
 
 
---//6	List of pizza ordered in January 2015
+--6	List of pizza ordered in January 2015
 
 
 Select FORMAT([order_date],'MMM, yyyy') AS MonthYear
@@ -57,52 +57,25 @@ From [dbo].[pizza_sales$]
 where [order_date] = 'January 2015'
 
 
-Select *
-         From [dbo].[pizza_sales$]
-		 Where [order_date] Like '2015-01-%';
-
-
-		 ALTER TABLE [dbo].[pizza_sales$]
-Add Duplicated_date Date;
-
-
-Select [order_date], [order_date] As duplicated_date
-From [dbo].[pizza_sales$]
-
-Select *
-         From [dbo].[pizza_sales$]
-		 Where [order_date] Like '2015-01-%';
-
-
-Select [order_date], [order_date] As duplicated_date
-From [dbo].[pizza_sales$]
-
-Select FORMAT([order_date], 'MMM') AS Month
-From [dbo].[pizza_sales$]
-
-Select FORMAT([order_date],'MMM, yyyy') AS MonthYear
-From [dbo].[pizza_sales$];
-
-
---//7ist of pizza ordered between 1st of November till 31st December 2015
+--7   List of pizza ordered between 1st of November till 31st December 2015
 
 Select FORMAT([order_date],'MMM, yyyy') AS MonthYear
 From [dbo].[pizza_sales$]
 where [order_date] between 'November 2015' and 'December 2015'
 
-
+OR
 
 Select *
          From [dbo].[pizza_sales$]
 		 Where [order_date] BETWEEN '2015-11-01 ' AND  '2015-12-31';
 
---8 thatthe quantity of The Spinach Supreme Pizza sold in March 2015
+--8 What is the quantity of The Spinach Supreme Pizza sold in March 2015
 
 Select *
          From [dbo].[pizza_sales$]
 		 Where [pizza_category]= 'Supreme' and [order_date] ='March 2015'
 
-         
+       OR  
 
 		 Select sum([quantity]) as Spinach_Supreme_Quantity
 		 From [dbo].[pizza_sales$]
