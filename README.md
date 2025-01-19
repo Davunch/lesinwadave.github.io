@@ -84,7 +84,26 @@ Identifies regional strengths and growth potential.
 
 Profit by State (Geographical Map): A geographical heatmap showing profit distribution, highlighting regions with high and low profitability for targeted improvement.
 
+Market Performance Analysis:
+Sales by Market:
+Africa: 6.2%
+USCA: 31.89% (largest contributor)
+Europe, Asia Pacific, and LATAM are notable contributors as well.
+Sales by Segment:
+Consumer segment dominates with 51.48% of total sales.
+Corporate and Home Office segments follow at 30.25% and 18.27%, respectively.
+
+Product Performance Analysis:
+Top 5 Products by Sales:
+Apple Smart Phones (87K units sold), Cisco Smart Phones (76K), and Motorola Smart Phones are among the top products driving revenue.
+Bottom 5 Products by Sales:
+Products like Avery Hi-Liter Pens and Grip Seal Envelopes have the lowest demand, suggesting areas for potential product discontinuation or re-marketing.
+
 
 **Key findings:**
+Western Europe is the most profitable region, contributing the largest sales volume.
+Europe and USCA markets dominate globally.
+Smart Phones are the most popular products, while certain stationery items are the least successful.
+Corporate/Home Office segments are the largest contributors to sales, indicating a potential focus on B2B customers.
 
 **Dashboard Overview:**
