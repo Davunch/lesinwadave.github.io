@@ -68,7 +68,7 @@ Pizzas Sold for More Than $12.5: List pizzas sold with a unit price greater than
 
 # Project 3
 
-**Title:** Global Super Store Interactive Dashboard
+**Title:** [Global Super Store Interactive Sales Dashboard](https://github.com/Davunch/lesinwadave.github.io/blob/main/GLOBAL_SUPER_STORE.pbix)
 
 **Tools Used:** Power Bi(Card,Map,Pie chart,stacked column chart and stacked bar chart)
 
@@ -106,4 +106,5 @@ Europe and USCA markets dominate globally.
 Smart Phones are the most popular products, while certain stationery items are the least successful.
 Corporate/Home Office segments are the largest contributors to sales, indicating a potential focus on B2B customers.
 
-**Dashboard Overview:**
+**Dashboard Overview:** 
+![GlobalSuperStore](GlobalSuperStore.png)
