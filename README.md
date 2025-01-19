@@ -33,20 +33,32 @@ This could suggest younger demographics are more active in day-to-day banking or
 
 **SQL Skills Used:**
 Data Retrieval (SELECT): Queried and extracted specific information from the database.
+
 Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+
 Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
+
 Data Source Specification (FROM): Specified the tables used as data sources for retrieval
 
 **Project Description:**
 Total Revenue Calculation: Query to calculate the total revenue generated from all pizza sales.
+
 Total Pizzas Sold: Determine the total number of pizzas sold by summing up the quantity column.
+
 Total Number of Orders: Count the total number of unique orders in the dataset using the order_id column.
+
 Sales of Veggie Pizza Category: Calculate the total quantity of pizzas sold in the Veggie category.
+
 Sales of Specific Pizza Types: Retrieve details of orders involving "The Hawaiian Pizza" and "The Greek Pizza."
+
 Pizzas Ordered in January 2015: List all pizzas ordered during January 2015.
+
 Orders Between November and December 2015: Fetch orders placed between November 1, 2015, and December 31, 2015.
+
 Spinach Supreme Pizza Sales in March 2015: Calculate the total quantity of "The Spinach Supreme Pizza" sold during March 2015.
+
 Medium-Sized Pizza Sales: Retrieve a list of all medium-sized pizzas sold (pizza_size = 'm').
+
 Pizzas Sold for More Than $12.5: List pizzas sold with a unit price greater than or equal to $12.5.
 
 
