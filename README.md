@@ -29,7 +29,7 @@ This could suggest younger demographics are more active in day-to-day banking or
 
 **Title:** Pizza Data Interrogation
 
-**SQL Code:** [Pizzar Sql Queries](https://github.com/Davunch/lesinwadave.github.io/blob/main/Pizza.Sql)
+**SQL Code:** [Pizza Sql Queries](https://github.com/Davunch/lesinwadave.github.io/blob/main/Pizza.Sql)
 
 **SQL Skills Used:**
 Data Retrieval (SELECT): Queried and extracted specific information from the database.
