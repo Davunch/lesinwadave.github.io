@@ -64,3 +64,27 @@ Pizzas Sold for More Than $12.5: List pizzas sold with a unit price greater than
 
 
 **Technology used:** SQL server
+
+
+# Project 3
+
+**Title:** Global Super Store Interactive Dashboard
+
+**Tools Used:** Power Bi(Card,Map,Pie chart,stacked column chart and stacked bar chart)
+
+**Project Description:**
+Cards: These high-level metrics provide an immediate snapshot of the company's overall performance. Overview Metrics from Total Sales showed $12.64M,Total Profit was $1.47M,Total Quantity Sold was 178K
+and Average Delivery Days was 8 days.
+
+Sales Breakdown by State: Top-performing states such as England, New South Wales, and New York show significant sales contributions.
+Highlights opportunities for improving sales in underperforming regions like Wyoming and Manitoba.
+
+Top 5 Regions by Sales: Western Europe leads with $1.7M in sales, followed by Central America ($1.2M) and Oceania ($1M).
+Identifies regional strengths and growth potential.
+
+Profit by State (Geographical Map): A geographical heatmap showing profit distribution, highlighting regions with high and low profitability for targeted improvement.
+
+
+**Key findings:**
+
+**Dashboard Overview:**
